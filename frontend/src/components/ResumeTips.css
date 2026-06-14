@@ -1,0 +1,43 @@
+.resume-tips {
+  margin-top: 2rem;
+  padding: 1.5rem 1.75rem;
+  background: rgba(59, 130, 246, 0.06);
+  border: 1px solid rgba(59, 130, 246, 0.18);
+  border-radius: 14px;
+}
+
+.resume-tips h3 {
+  font-size: 1.1rem;
+  color: #f1f5f9;
+  margin-bottom: 0.65rem;
+}
+
+.resume-tips-intro {
+  color: #94a3b8;
+  font-size: 0.92rem;
+  line-height: 1.55;
+  margin-bottom: 1rem;
+}
+
+.resume-tips ul {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  gap: 0.55rem;
+}
+
+.resume-tips li {
+  position: relative;
+  padding-left: 1.35rem;
+  color: #cbd5e1;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.resume-tips li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: #60a5fa;
+  font-weight: 700;
+}
