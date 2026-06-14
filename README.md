@@ -294,10 +294,4 @@ For major changes, please open an issue first.
 
 ---
 
-## 📜 License
-
-MIT License
-
----
-
 ⭐ If you found this project useful, consider giving it a star.
